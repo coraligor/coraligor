@@ -1,16 +1,58 @@
-## Hi there 👋
+# Igor Ferreira
 
-<!--
-**coraligor/coraligor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI-Enabled Business Systems | Business Analytics | FastAPI | Workflow Automation | Operational Intelligence
 
-Here are some ideas to get you started:
+Professional focused on AI-enabled business systems, operational analytics, workflow automation, and enterprise technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work combines:
+- Business Analytics
+- Information Technology
+- Operations Management
+- FastAPI APIs
+- PostgreSQL
+- AI-enabled workflows
+- Operational Intelligence
+- Digital Transformation
+
+---
+
+## Current Focus
+
+- AI-Enabled Enterprise Systems
+- Operational Analytics
+- Workflow Automation
+- FastAPI + PostgreSQL Architectures
+- Business Intelligence
+- Applied AI for Operations and Decision Support
+
+---
+
+## Technologies & Tools
+
+- Python
+- FastAPI
+- PostgreSQL
+- GitHub
+- Power BI
+- SQL
+- Workflow Automation
+- API Integrations
+- Business Analytics
+
+---
+
+## Portfolio Goals
+
+This GitHub profile is focused on building:
+- professional portfolio projects;
+- operational analytics systems;
+- AI-enabled business applications;
+- enterprise workflow solutions;
+- technical documentation;
+- architecture demonstrations.
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/igor-ferreira-ai/
